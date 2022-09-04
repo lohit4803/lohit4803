@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lohith
 - 👀 I’m interested in software development
-- 🌱 I’m currently looking for oppurtunities to utilize my skills in a good Organization
-- and for the betterment of my career growth as well.
+- 🌱 I’m currently looking for oppurtunities to utilize my skills in a good Organization and for the betterment of my career growth as well.
 
 
 <!---
